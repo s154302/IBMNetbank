@@ -7,8 +7,7 @@ import java.util.ArrayList;
 public class Banker {
 
 	int bankerID;
-	String bankerName;
-	String branch;
+	String bankerName, branch;
 	ArrayList clients;
 
 	public void createClient() {

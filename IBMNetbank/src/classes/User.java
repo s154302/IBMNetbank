@@ -12,7 +12,7 @@ public class User {
 	Banker banker;
 
 	public void logOut() {
-
+		
 	}
 
 	public void login(String userName, String password) {
